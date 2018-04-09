@@ -16,6 +16,7 @@
 		B555AF55207AFD0900471A65 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B555AF54207AFD0900471A65 /* main.m */; };
 		B555AF5F207AFD0900471A65 /* BC_TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B555AF5E207AFD0900471A65 /* BC_TestTests.m */; };
 		B555AF6A207AFD0900471A65 /* BC_TestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B555AF69207AFD0900471A65 /* BC_TestUITests.m */; };
+		B56B3DEE207B07E600F36C25 /* CdeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B56B3DED207B07E600F36C25 /* CdeTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		B555AF65207AFD0900471A65 /* BC_TestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BC_TestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B555AF69207AFD0900471A65 /* BC_TestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BC_TestUITests.m; sourceTree = "<group>"; };
 		B555AF6B207AFD0900471A65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B56B3DEC207B07E600F36C25 /* CdeTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CdeTableViewCell.h; sourceTree = "<group>"; };
+		B56B3DED207B07E600F36C25 /* CdeTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CdeTableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +116,8 @@
 				B555AF53207AFD0900471A65 /* Info.plist */,
 				B555AF54207AFD0900471A65 /* main.m */,
 				B555AF4B207AFD0900471A65 /* BC_Test.xcdatamodeld */,
+				B56B3DEC207B07E600F36C25 /* CdeTableViewCell.h */,
+				B56B3DED207B07E600F36C25 /* CdeTableViewCell.m */,
 			);
 			path = BC_Test;
 			sourceTree = "<group>";
@@ -270,6 +275,7 @@
 			files = (
 				B555AF4D207AFD0900471A65 /* BC_Test.xcdatamodeld in Sources */,
 				B555AF47207AFD0800471A65 /* ViewController.m in Sources */,
+				B56B3DEE207B07E600F36C25 /* CdeTableViewCell.m in Sources */,
 				B555AF55207AFD0900471A65 /* main.m in Sources */,
 				B555AF44207AFD0800471A65 /* AppDelegate.m in Sources */,
 			);
