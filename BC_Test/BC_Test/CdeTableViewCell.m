@@ -13,6 +13,7 @@
 - (void)awakeFromNib {
     [super awakeFromNib];
     // Initialization code
+//    发点击啦放假垃圾袋理发就
 }
 
 - (void)setSelected:(BOOL)selected animated:(BOOL)animated {
